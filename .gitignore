@@ -65,7 +65,7 @@ $RECYCLE.BIN/
 # Logs and databases
 ############################
 
-.tmp
+# .tmp (just want to push de database in git)
 *.log
 *.sql
 *.sqlite
